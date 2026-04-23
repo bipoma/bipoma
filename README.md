@@ -22,27 +22,14 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, S3, IAM, VPC, Lambda, ALB, Auto Scaling)
-
-### ⚙️ DevOps & Tools
-- Docker  
-- Kubernetes  
-- Jenkins  
-- Terraform  
-- Git & CI/CD Pipelines  
-
-### 💻 Programming & OS
-- Python  
-- Bash  
-- Linux (Ubuntu)  
-
-### 🌐 Networking & Monitoring
-- TCP/IP, DNS, HTTP/HTTPS  
-- Load Balancing  
-- Prometheus & Grafana  
+**☁️ Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, ALB, Auto Scaling)  
+**⚙️ DevOps:** Docker, Kubernetes, Jenkins, Git, Terraform, CI/CD  
+**🐍 Scripting:** Python, Bash  
+**🖥️ OS:** Linux (Ubuntu)  
+**🌐 Networking:** TCP/IP, DNS, HTTP/HTTPS, Load Balancing  
+**📊 Monitoring:** Prometheus, Grafana  
 
 ---
 
