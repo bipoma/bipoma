@@ -86,8 +86,6 @@ Western Governors University
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipoma&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipoma&layout=compact)
-
 ---
 
 ## 🤝 Let’s Connect
