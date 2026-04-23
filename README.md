@@ -22,7 +22,7 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### ☁️ Cloud & Infrastructure
 - AWS (EC2, S3, IAM, VPC, Lambda, ALB, Auto Scaling)
@@ -46,27 +46,27 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 
 ---
 
-## 📂 Projects
+## 📂 Project Experience
 
 ### ☁️ Cloud Web Application Deployment (AWS)
-- Deployed scalable app using **EC2 + S3 + ALB**
-- Implemented **Auto Scaling & health checks**
-- Secured infrastructure using **IAM roles & security groups**
+- Deployed a scalable web app on EC2 with S3 storage and Application Load Balancer
+- Implemented Auto Scaling and health checks to improve availability and uptime
+- Configured IAM roles, policies, and security groups following least-privilege principles
 
 ### 🔄 CI/CD Pipeline Automation
-- Built pipeline using **Jenkins + GitHub**
-- Automated **build, test & deployment**
-- Reduced deployment time & manual effort
+- Built CI/CD pipeline using Jenkins and GitHub
+- Automated build, test, and deployment; reduced manual steps and deployment time
+- Integrated version control with Git for streamlined releases
 
 ### 🐳 Containerized Application Deployment
-- Dockerized applications & deployed on **Kubernetes**
-- Managed scaling with **Deployments & Services**
-- Ensured environment consistency
+- Containerized services with Docker and deployed on Kubernetes
+- Used deployments/services for scaling and service discovery
+- Improved consistency across dev/test/prod environments
 
 ### 🏗️ Infrastructure as Code (Terraform)
-- Provisioned AWS infra using **Terraform**
-- Created reusable **modular configurations**
-- Enabled fast and repeatable deployments
+- Provisioned AWS resources (VPC, subnets, EC2, security groups) using Terraform
+- Modularized configs for reusable, repeatable deployments
+- Enabled fast environment spin-up and teardown
 
 ---
 
