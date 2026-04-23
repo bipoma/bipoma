@@ -1,4 +1,5 @@
-![](https://github.com/bipoma/bipoma/blob/main/welcome1.png?raw=true)
+![](https://github.com/bipoma/bipoma/blob/main/ce-1.jpg?raw=true)
+
 
 
 <h1 align="center">Hi, I'm Christian Bipoma Betema</h1>
