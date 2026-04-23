@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Christian Bipoma Betema</h1>
-<h3 align="center">An aspiring **Cloud DevOps Engineer** focused on building scalable, reliable, and secure cloud systems.</h3>
+<h3 align="center">An aspiring Cloud DevOps Engineer focused on building scalable, reliable, and secure cloud systems.</h3>
 
 
 ![](https://github.com/bipoma/bipoma/blob/main/welcome1.png?raw=true)
