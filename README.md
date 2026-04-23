@@ -1,4 +1,5 @@
-# 🚀 Cloud DevOps Engineer | AWS | CI/CD | Automation
+
+![](https://github.com/bipoma/bipoma/blob/main/welcome1.png?raw=true)
 
 Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** focused on building scalable, reliable, and secure cloud systems.
 
