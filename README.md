@@ -3,8 +3,10 @@
 
 Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** focused on building scalable, reliable, and secure cloud systems.
 
+
 📍 Seattle, WA  
 📧 Bipoma226@gmail.com  
+📞 +1 206-472-8775  
 🔗 [LinkedIn](https://linkedin.com/in/yourname)  
 💻 [GitHub](https://github.com/bipoma)
 
@@ -70,15 +72,15 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 
 ## 🎓 Education
 
-B.S. in Cloud Computing / Information Technology  
-Western Governors University *(Optional)*  
+B.S. Cloud Computing / Information Technology
+Western Governors University
 
 ---
 
 ## 📜 Certifications
 
-- AWS Certified Cloud Practitioner *(In Progress)*  
-- AWS Solutions Architect – Associate *(Planned)*  
+- AWS Certified Cloud Practitioner
+- AWS Solutions Architect – Associate
 
 ---
 
