@@ -8,7 +8,7 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 📧 Bipoma226@gmail.com  
 📞 [WhatsApp](https://wa.me/+12064728775) 
 🔗 [LinkedIn](https://linkedin.com/in/yourname)  
-💻 [GitHub](https://github.com/bipoma)
+💻 [GitHub](https://github.com/bipoma) 
 
 ---
 
