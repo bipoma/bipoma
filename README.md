@@ -6,7 +6,7 @@ Hi, I’m **Christian Ipoma Betema** — an aspiring **Cloud DevOps Engineer** f
 
 📍 Seattle, WA  
 📧 Bipoma226@gmail.com  
-📞 +1 206-472-8775  
+📞 [WhatsApp](https://wa.me/+12064728775) 
 🔗 [LinkedIn](https://linkedin.com/in/yourname)  
 💻 [GitHub](https://github.com/bipoma)
 
@@ -92,4 +92,4 @@ Western Governors University
 
 💼 LinkedIn: https://linkedin.com/in/yourname  
 📧 Email: Bipoma226@gmail.com  
-📞 WhatsApp: https://wa.me/12064728775
+📞 WhatsApp: https://wa.me/+12064728775
