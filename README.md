@@ -8,7 +8,7 @@
 📍 Seattle, WA  
 📧 Bipoma226@gmail.com  <br>
 📞 [WhatsApp](https://wa.me/+12064728775) <br>
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/christian-ipoma-44796a21b/)  <br>
 💻 [GitHub](https://github.com/bipoma) 
 
 ---
@@ -91,6 +91,6 @@ Western Governors University
 
 ## 🤝 Let’s Connect
 
-💼 LinkedIn: https://linkedin.com/in/yourname  
+💼 LinkedIn: https://www.linkedin.com/in/christian-ipoma-44796a21b/ 
 📧 Email: Bipoma226@gmail.com  
 📞 WhatsApp: https://wa.me/+12064728775
