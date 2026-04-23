@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Christian Bipoma Betema</h1>
+<h1 align="center">Hi, I'm Christian ipoma Betema</h1>
 <h3 align="center">An aspiring Cloud DevOps Engineer focused on building scalable, reliable, and secure cloud systems.</h3>
 
 
